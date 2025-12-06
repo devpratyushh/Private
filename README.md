@@ -1,4 +1,4 @@
-# 💬 [Insert App Name Here]
+# 💬 Private
 
 > **A full-featured, multimedia-enabled social platform built with a hybrid architecture.**
 > *Developed: [Year] | Status: Archived (Educational Project)*
@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-**[App Name]** represents a significant evolution from my earlier ephemeral messaging tools. Unlike simple text-stream apps, this project was engineered to handle **persistent user identities**, **multimedia blobs**, and **relational contact discovery** within a NoSQL environment.
+**Private** represents a significant evolution from my earlier ephemeral messaging tools. Unlike simple text-stream apps, this project was engineered to handle **persistent user identities**, **multimedia blobs**, and **relational contact discovery** within a NoSQL environment.
 
 It features a custom-built hybrid interface that bridges native device capabilities (Camera, Gallery, File System) with a serverless Firebase backend.
 
@@ -17,7 +17,7 @@ It features a custom-built hybrid interface that bridges native device capabilit
 
 | **Real-Time Chat & Dark Mode** | **Multimedia Pipeline & Preview** |
 |:---:|:---:|
-| <img src="./images/chat_ui_sample.png" width="250" /> | <img src="./images/media_preview.jpg" width="250" /> |
+*| <img src="./images/chat_ui_sample.png" width="250" /> | <img src="./images/media_preview.jpg" width="250" /> |*
 | *Supports inline image rendering, dark mode UI, and instant message synchronization.* | *Custom pre-upload stage for compressing and confirming media (images/video) before blob storage commitment.* |
 
 *(Note: Replace `chat_ui_sample.png` with your chat screenshot and `media_preview.jpg` with the Aarti preview image)*
