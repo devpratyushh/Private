@@ -40,7 +40,11 @@ It features a custom-built hybrid interface that bridges native device capabilit
     2.  **Compression:** Client-side optimization.
     3.  **Upload:** File sent to Firebase Storage buckets.
     4.  **Reference:** Download URL injected into the chat stream.
-
+  
+### 🛡️ 4. Security & Privacy Architecture
+* **Client-Side Encryption:** Integrated `CryptoJS` to implement AES-256 encryption on sensitive user data before it ever leaves the device.
+* **Zero-Knowledge Principle:** implemented logic where data (like saved credentials or private notes) is encrypted using a user-defined key, ensuring even the database admin (me) cannot read the raw payloads.
+* **Secure Vault:** Includes a built-in credential manager that hashes passwords and encrypts metadata locally, demonstrating a "Privacy by Design" approach.
 ---
 
 ## 🛠️ Technical Stack
