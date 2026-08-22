@@ -1,7 +1,7 @@
 # 💬 Private
 
 > **A full-featured, multimedia-enabled social platform built with a hybrid architecture.**
-> *Developed: [Year] | Status: Archived (Educational Project)*
+> *Developed: 2021 | Status: Archived (Educational Project)*
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
